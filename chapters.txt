@@ -1,0 +1,31 @@
+1,Stat. Inférentielle,0,0
+2,Stat. Expl. multivariée,1,1
+3,Stochastique,2,1
+4,R,0,1
+5,BigData,1,1
+6,Calcul parallèle,2,1
+7,Graphes,2,1
+8,Cloud,2,2
+9,Fondement de l'IA,0,0
+10,Fondement sys. distribués,3,0
+11,Algorithmique numérique,2,3
+12,Tech. de Communication,0,1
+13,Anglais,0,2
+14,Macro,0,0
+Module:Statistique Inférentielle
+1
+4
+Module:Intro. apprentissage statique
+2
+3
+Module:BigData & Calcul parallèle
+5
+6
+Module:IA & système distribué
+8
+9
+10
+Module:Transversalle
+11
+12
+13
